@@ -1,0 +1,1 @@
+CountYourWords.PrintWordCount("text.txt");
