@@ -1,8 +1,8 @@
 class CountYourWords
 {
-    public static void PrintWordCount(string fileName)
+    public static void PrintWordCount(StreamReader sr)
     {
-        StreamReader sr = new StreamReader(fileName);
+        
         var wordCount = new Dictionary<string, int>();
         var line = sr.ReadLine();
         while (line != null)
@@ -34,7 +34,6 @@ class CountYourWords
         {
             Console.WriteLine("{0} {1}", word.Key, word.Value);
         }
-        sr.Close();
     }
 
     private static Dictionary<string, int> sortDictionary(Dictionary<string, int> inputDict)

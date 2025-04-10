@@ -23,3 +23,4 @@ C:\Users\Steph\Documents\school\CS\basicfit\CountYourWords1\obj\Debug\net8.0\ref
 C:\Users\Steph\Documents\school\CS\basicfit\CountYourWords1\obj\Debug\net8.0\CountYourWords1.pdb
 C:\Users\Steph\Documents\school\CS\basicfit\CountYourWords1\obj\Debug\net8.0\CountYourWords1.genruntimeconfig.cache
 C:\Users\Steph\Documents\school\CS\basicfit\CountYourWords1\obj\Debug\net8.0\ref\CountYourWords1.dll
+C:\Users\Steph\Documents\school\CS\basicfit\CountYourWords1\obj\Debug\net8.0\CountYourWords1.sourcelink.json
